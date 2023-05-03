@@ -4,7 +4,7 @@
 import { useState } from 'react';
 import appData from "../constants/data";
 
-import "../styles/post.module.css"
+
 
 
 
